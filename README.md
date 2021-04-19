@@ -48,9 +48,13 @@ This project was made using the follow technologies:
 * [NextJS](https://nextjs.org/)
 * [Chakra UI](https://chakra-ui.com/)
 * [Emotion](https://emotion.sh/)
+* [MirageJS](https://miragejs.com/)
+* [React Query](https://react-query.tanstack.com/)
+* [React Hook Form](https://react-hook-form.com/)
 * [Apex Charts](https://apexcharts.com/)
 * [Framer Emotion](https://www.framer.com/motion/)
 * [React](https://reactjs.org/)
+* [Faker](https://github.com/marak/Faker.js/)
 * [Yup](https://github.com/jquense/yup)
 
 # :computer: How to run
